@@ -1,7 +1,7 @@
 # Sports-Management-Using-JDBC
 A Java-based sports club management system using JDBC to manage athletes, trainers, and appointments with a MySQL database.      
 
-
+***
 Read me of SQL qurries :
 CREATE TABLE athlete(
     -> id INT AUTO_INCREMENT PRIMARY KEY,
@@ -47,4 +47,4 @@ mysql> SELECT * FROM trainers;
 |  5 | Mandar Bhobaskar | Kho Kho            |
 +----+------------------+--------------------+
 
-
+****
